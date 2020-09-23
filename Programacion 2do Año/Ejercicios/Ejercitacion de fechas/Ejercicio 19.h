@@ -1,0 +1,4 @@
+#ifndef EJERCICIO_19_H_INCLUDED
+#define EJERCICIO_19_H_INCLUDED
+int SemanaCod(tfecha);
+#endif // EJERCICIO_19_H_INCLUDED

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Ejercitacion de Vectores" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Ejercitacion de Vectores" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Ejercitacion de Vectores" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Cantidad-de-elementos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ejercicio 22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ejercicio 22.h" />
+		<Unit filename="Ejercicio 23.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ElementosEnUnString.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Eliminar posicion de un vector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Eliminar posicion de un vector.h" />
+		<Unit filename="EliminarElemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EliminarPosUnavez.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="OrdenarVector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Palindromo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PruebaDePunteros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Search1Time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ValorEntero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589681575 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_seleccion\main.c
+	"main.h"
+
+1589680068 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_seleccion\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589673523 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_seleccion\ordenamiento x seleccion enteros.c
+	"main.h"
+
+1589673745 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_seleccion\ordenamiento x seleccion strucs.c
+	"main.h"
+
+1589680967 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_seleccion\ordenamiento por seleccion generico.c
+	"main.h"
+

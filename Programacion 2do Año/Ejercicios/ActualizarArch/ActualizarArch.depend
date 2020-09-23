@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589033762 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\actualizararch\main.c
+	"main.h"
+
+1589032635 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\actualizararch\main.h
+	<stdio.h>
+	<stdlib.h>
+
+1589034282 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\actualizararch\cargararch.c
+	"main.h"
+

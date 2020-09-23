@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1586787397 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\ejercicio 17.c
+	"Ejercicio 17.h"
+
+1586752915 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\ejercicio 17.h
+	<stdio.h>
+
+1586803049 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamayor.c
+	"FechaMayor.h"
+
+1586802564 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamayor.h
+
+1586803055 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamayordia.c
+	"FechaMayor.h"
+
+1586803067 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamayormes.c
+	"FechaMayor.h"
+
+1586803105 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamenor.c
+	"FechaMenor.h"
+
+1586803105 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamenor.h
+
+1586803142 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamenordia.c
+	"FechaMenor.h"
+
+1586803155 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\fechamenormes.c
+	"FechaMenor.h"
+
+1586811044 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\ejercicio 18.c
+	"Ejercicio 18.h"
+
+1586811171 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\ejercicio 18.h
+
+1586811198 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\ejercicio 19.c
+	"Ejercicio 19.h"
+	"Ejercicio 18.h"
+
+1586811171 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion programacion\ejercicio 19.h
+

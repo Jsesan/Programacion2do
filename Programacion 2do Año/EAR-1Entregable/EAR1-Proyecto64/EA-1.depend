@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1592777738 source:c:\users\juani\onedrive\desktop\ear-1entregable\ear1-proyecto64\funciones1.c
+	"funciones.h"
+
+1592772548 c:\users\juani\onedrive\desktop\ear-1entregable\ear1-proyecto64\funciones.h
+	<stdio.h>
+
+1592772589 source:c:\users\juani\onedrive\desktop\ear-1entregable\ear1-proyecto64\funciones2.c
+	"funciones.h"
+
+1592712883 source:c:\users\juani\onedrive\desktop\ear-1entregable\ear1-proyecto64\funciones3.c
+	"funciones.h"
+	<string.h>
+	<stdlib.h>
+
+1592777653 source:c:\users\juani\onedrive\desktop\ear-1entregable\ear1-proyecto64\main.c
+	"main.h"
+
+1592537918 c:\users\juani\onedrive\desktop\ear-1entregable\ear1-proyecto64\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

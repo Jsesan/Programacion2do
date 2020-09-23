@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589326063 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercicio 1 archivos\main.c
+	"main.h"
+
+1589317016 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercicio 1 archivos\main.h
+	<stdio.h>
+	<stdlib.h>
+

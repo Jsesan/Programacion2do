@@ -1,0 +1,4 @@
+500|Bottarini Mercedes|7.05
+400|Carrettoni Renata|8.50
+100|Sesan Juan Ignacio|8.00
+200|Sesan Sophia Rachel|6.99

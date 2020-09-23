@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589730300 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_burbujeo\main.c
+	"Ordenamiento por burbuja.h"
+
+1589729845 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ordenamiento_burbujeo\ordenamiento por burbuja.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

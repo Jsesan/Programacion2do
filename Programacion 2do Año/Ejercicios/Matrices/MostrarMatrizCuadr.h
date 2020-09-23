@@ -1,0 +1,5 @@
+#ifndef MOSTRARMATRIZCUADR_H_INCLUDED
+#define MOSTRARMATRIZCUADR_H_INCLUDED
+#define TAM 100
+void MostrarMatrizCuadr(int mat[][TAM],int orden);
+#endif // MOSTRARMATRIZCUADR_H_INCLUDED

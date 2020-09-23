@@ -1,0 +1,5 @@
+#ifndef ELIMINAR_POSICION_DE_UN_VECTOR_H_INCLUDED
+#define ELIMINAR_POSICION_DE_UN_VECTOR_H_INCLUDED
+#include "Ejercicio 22.h"
+void EliminarPos(int *ptrV,int);
+#endif // ELIMINAR_POSICION_DE_UN_VECTOR_H_INCLUDED

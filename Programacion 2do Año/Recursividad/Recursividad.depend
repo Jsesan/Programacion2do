@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593554711 source:c:\users\juani\onedrive\desktop\universidad\programacion\tda\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

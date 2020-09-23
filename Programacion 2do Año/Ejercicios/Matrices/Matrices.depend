@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1588718531 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EjercicioDelTorneo.h"
+
+1588425989 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\voltearfilasmat.c
+	"VoltearFilasMat.h"
+
+1588426128 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\sumar_if_diag.c
+	"Sumar_IF_Diag.h"
+	"VoltearFilasMat.h"
+	"MostrarMatrizCuadr.h"
+
+1588377016 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\sumar_if_diag.h
+	<stdio.h>
+
+1588378448 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\voltearfilasmat.h
+
+1588392415 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\traza.c
+	"Traza.h"
+	"VoltearFilasMat.h"
+	"MostrarMatrizCuadr.h"
+
+1588390086 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\traza.h
+	<stdio.h>
+	<stdlib.h>
+
+1588652748 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\mostrarmatriz.c
+	"MostrarMatrizCuadr.h"
+
+1588392252 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\mostrarmatrizcuadr.h
+
+1588539274 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\trianguloscondiag.c
+	"TriangulosConDiagonales.h"
+
+1588539274 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\trianguloscondiagonales.h
+	<stdio.h>
+
+1588566972 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matrizdiagonal.c
+	"MatrizDiagonal.h"
+
+1588566712 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matrizdiagonal.h
+
+1588625071 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matrizidentidad.c
+	"MatrizIdentidad.h"
+
+1588618932 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matrizidentidad.h
+
+1588625699 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matrizsimetrica.c
+	"MatrizSimetrica.h"
+
+1588625058 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matrizsimetrica.h
+
+1588627194 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matriztranspuesta.c
+	"MatrizTranspuetsa.h"
+
+1588650388 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matriztranspuetsa.h
+
+1588650398 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\copiarunamatriz.c
+	"CopiarUnaMatriz.h"
+
+1588635450 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\copiarunamatriz.h
+
+1588650444 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\matriztranspuesta2.c
+	"MatrizTranspuetsa.h"
+	"CopiarUnaMatriz.h"
+
+1588690922 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\productodemat.c
+	"ProductoDeMat.h"
+
+1588652710 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\productodemat.h
+
+1588709634 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\ejerciciodeltorneo.h
+
+1588709997 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\matrices\ejerciciodeltorneo.c
+	"EjercicioDelTorneo.h"
+

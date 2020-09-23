@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589500429 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archtext_a_archbin\main.c
+	"main.h"
+
+1589497016 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archtext_a_archbin\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

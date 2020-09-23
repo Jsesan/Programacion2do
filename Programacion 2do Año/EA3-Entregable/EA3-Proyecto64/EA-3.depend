@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1594264190 source:c:\users\juani\onedrive\desktop\ea3-entregable\ea3-proyecto64\main.c
+	"main.h"
+
+1594076540 c:\users\juani\onedrive\desktop\ea3-entregable\ea3-proyecto64\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1594076540 c:\users\juani\onedrive\desktop\ea3-entregable\ea3-proyecto64\funciones.h
+	<stdio.h>
+
+1594248329 source:c:\users\juani\onedrive\desktop\ea3-entregable\ea3-proyecto64\funciones.c
+	<string.h>
+	"funciones.h"
+

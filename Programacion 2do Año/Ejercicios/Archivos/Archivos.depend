@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588790214 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archivos\main.c
+	"main.h"
+
+1588775364 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archivos\main.h
+	<stdio.h>
+	<stdlib.h>
+	"ArchivoAlumnos.h"
+
+1588790494 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archivos\archivoalumnos.h
+	<stdio.h>
+
+1588776344 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archivos\escribirarchivoalumnos.c
+	"ArchivoAlumnos.h"
+
+1588790480 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\archivos\lecturaarchivosalumnos.c
+	"ArchivoAlumnos.h"
+

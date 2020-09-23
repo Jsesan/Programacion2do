@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1587166273 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\ejercicio 22.c
+	"Ejercicio 22.h"
+
+1587518025 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\ejercicio 22.h
+	<stdio.h>
+
+1587095224 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\ejercicio 23.c
+	"Ejercicio 22.h"
+
+1587095296 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\ordenarvector.c
+	"Ejercicio 22.h"
+
+1587516993 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ejercicio 22.h"
+
+1587251527 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\pruebadepunteros.c
+	"Ejercicio 22.h"
+
+1587272248 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\eliminar posicion de un vector.c
+	"Ejercicio 22.h"
+
+1587329937 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\search1time.c
+	"Ejercicio 22.h"
+
+1587273717 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\eliminarposunavez.c
+
+1587330319 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\eliminarelemento.c
+	"Ejercicio 22.h"
+
+1587357349 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\palindromo.c
+	"Ejercicio 22.h"
+
+1587357156 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\elementosenunstring.c
+	"Ejercicio 22.h"
+
+1587518025 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\valorentero.c
+	"Ejercicio 22.h"
+
+1587445172 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion de vectores\cantidad-de-elementos.c
+

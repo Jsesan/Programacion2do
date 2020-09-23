@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590723930 source:c:\users\juani\onedrive\desktop\universidad\programacion\tda\pila estatica\pila_estatica.c
+	"Pila_Estatica.h"
+
+1590605033 c:\users\juani\onedrive\desktop\universidad\programacion\tda\pila estatica\pila_estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

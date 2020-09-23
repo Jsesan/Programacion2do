@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1591291277 source:c:\users\juani\onedrive\desktop\universidad\programacion\ea1-proyecto\funciones.c
+	"funciones.h"
+
+1591410684 c:\users\juani\onedrive\desktop\universidad\programacion\ea1-proyecto\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1591442595 source:c:\users\juani\onedrive\desktop\universidad\programacion\ea1-proyecto\main.c
+	"main.h"
+
+1591235946 c:\users\juani\onedrive\desktop\universidad\programacion\ea1-proyecto\main.h
+	<stdio.h>
+	"funciones.h"
+

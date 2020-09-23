@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1593232897 source:c:\users\juani\onedrive\desktop\ea2\ea2-entregable\ea2-proyecto64\funciones.c
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1593220099 c:\users\juani\onedrive\desktop\ea2\ea2-entregable\ea2-proyecto64\funciones.h
+	<stdio.h>
+
+1593228971 source:c:\users\juani\onedrive\desktop\ea2\ea2-entregable\ea2-proyecto64\main.c
+	"main.h"
+
+1593035810 c:\users\juani\onedrive\desktop\ea2\ea2-entregable\ea2-proyecto64\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1593296233 source:c:\users\juani\onedrive\desktop\universidad\programacion\ea2\ea2-entregable\ea2-proyecto64\funciones.c
+	<stdlib.h>
+	"funciones.h"
+
+1593296127 c:\users\juani\onedrive\desktop\universidad\programacion\ea2\ea2-entregable\ea2-proyecto64\funciones.h
+	<stdio.h>
+
+1593228971 source:c:\users\juani\onedrive\desktop\universidad\programacion\ea2\ea2-entregable\ea2-proyecto64\main.c
+	"main.h"
+
+1593035810 c:\users\juani\onedrive\desktop\universidad\programacion\ea2\ea2-entregable\ea2-proyecto64\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

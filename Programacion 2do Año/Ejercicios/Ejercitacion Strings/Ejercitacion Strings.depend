@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1587660879 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\mystrlen.c
+	"EjercitacionStringsHeader.h"
+
+1587753129 c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\ejercitacionstringsheader.h
+
+1587756598 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EjercitacionStringsHeader.h"
+
+1587669558 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\invertirstring.c
+	"EjercitacionStringsHeader.h"
+
+1587671845 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\palindromo2.c
+	"EjercitacionStringsHeader.h"
+	<stdio.h>
+
+1587690776 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\formateartitulo.c
+
+1587690507 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\limpiarespacios.c
+
+1587757250 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\mayusminusspecials.c
+	"EjercitacionStringsHeader.h"
+	"ctype.h"
+
+1587757319 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\funcionspecials.c
+	"EjercitacionStringsHeader.h"
+
+1587757291 source:c:\users\juani\onedrive\desktop\universidad\programacion\ejercicios\ejercitacion strings\formatearnombre.c
+	"EjercitacionStringsHeader.h"
+
